@@ -1,0 +1,6 @@
+name: canopennodezephyr
+build:
+  kconfig: Kconfig
+  cmake: .
+samples:
+  - samples
